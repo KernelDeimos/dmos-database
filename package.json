@@ -1,0 +1,13 @@
+{
+  "name": "dmos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "NONE",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "ffi-napi": "^4.0.3",
+    "ref-array-di": "^1.2.2",
+    "ref-napi": "^3.0.2",
+    "ref-struct-di": "^1.1.1"
+  }
+}
